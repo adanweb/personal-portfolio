@@ -55,7 +55,7 @@ export const Navbar: React.FC<NavbarProps> = ({ currentView, onNavigate }) => {
         >
           {/* Replace src with your actual logo.png path */}
           <img 
-            src="public/AdanZukancicLogo.png" 
+            src="/AdanZukancicLogo.png" 
             alt={APP_NAME} 
             className="h-8 md:h-10 w-auto object-contain"
           />
