@@ -158,7 +158,7 @@ export const Home: React.FC<HomeProps> = ({ onNavigate }) => {
             onClick={() => onNavigate('projects')}
          >
             <img 
-               src="public/projtects/graphic/personal-branding/PBCover.jpg" 
+               src="/projtects/graphic/personal-branding/PBCover.jpg" 
                alt="Featured Project" 
                className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
             />
