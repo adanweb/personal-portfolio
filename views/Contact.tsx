@@ -80,7 +80,7 @@ export const Contact: React.FC = () => {
 
            <div className="mt-24 pt-12 border-t border-white/10">
               <h3 className="text-white font-bold uppercase tracking-widest mb-4">Contact Info</h3>
-              <p className="text-gray-400 text-lg">design.adanzukancic@gmail.com</p>
+              <p className="text-gray-400 text-lg">design@adanzukancic.com</p>
               <p className="text-gray-400 text-lg">+387 62 360 700</p>
            </div>
         </div>
