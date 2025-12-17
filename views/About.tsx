@@ -53,7 +53,7 @@ export const About: React.FC = () => {
       {/* Team / Image */}
       <div className="w-full h-[50vh] md:h-[80vh] overflow-hidden relative rounded-sm">
          <img 
-           src="public/Festina.jpg" 
+           src="/Festina.jpg" 
            alt="Studio" 
            className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000" 
          />
