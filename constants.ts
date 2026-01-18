@@ -34,7 +34,7 @@ export const PROJECTS: Project[] = [
     ]
   },
 
-   {
+  {
     id: 'graphics-02',
     title: 'N1 Television: Pogled s vrha - Logo Design',
     category: 'graphic',
@@ -56,6 +56,32 @@ export const PROJECTS: Project[] = [
       '/projtects/graphic/N1/n1.5.png',
       '/projtects/graphic/N1/n1.6.png',
       '/projtects/graphic/N1/n1.7.png',
+    ]
+  },
+
+  {
+    id: 'graphics-11',
+    title: 'LEMBUS Visual Identity System',
+    category: 'graphic',
+    client: 'LEMBUS',
+    year: '2026',
+    thumbnail: '/projtects/graphic/LEMBUS/LembusCover.jpg',
+    description: "Logo redesign for LEMBUS, a modern industrial brand from Bosanski Petrovac. The goal was to modernize the existing identity and build a clear, minimal system that communicates strength, precision, and reliability across print and digital applications.",
+    challenge: "The previous logo felt outdated and visually inconsistent, with weak scalability and limited flexibility for real-world use. The new identity needed to look serious and professional for a technical audience, stay highly legible at small sizes, and work as a foundation for a full brand system. ",
+    solution: "I designed a new logotype and an accompanying symbol illustration, refining proportions and spacing for stronger readability and a more industrial tone. To make typography a true brand asset, I developed a custom LEMBUS typeface and exported it as an OTF file using FontLab, then defined a complete set of branding guidelines including logo variations, minimum sizes, correct/incorrect usage rules, and a color and typography system (with IBM Plex Sans as secondary typography). ",
+    link: {
+      label: 'View and download the full LEMBUS Visual Identity System (PDF)',
+      url: 'https://drive.google.com/file/d/1yEJtcOjXseGnQ0xS46okMJoCf5jvM1-m/view?usp=sharing'
+    },
+    gallery: [
+      '/projtects/graphic/LEMBUS/LEMBUSLogo.png',
+      '/projtects/graphic/LEMBUS/LEMBUSLogo2.png',
+      '/projtects/graphic/LEMBUS/LEMBUSClearSpace.png',
+      '/projtects/graphic/LEMBUS/LEMBUSLogoCorrect.png',
+      '/projtects/graphic/LEMBUS/LEMBUSTypeface.png',
+      '/projtects/graphic/LEMBUS/LEMBUSColor.png',
+      '/projtects/graphic/LEMBUS/LEMBUSMockups.png',
+      '/projtects/graphic/LEMBUS/LEMBUSDesigner.png',
     ]
   },
 
