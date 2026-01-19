@@ -71,7 +71,7 @@ export const PROJECTS: Project[] = [
     solution: "I designed a new logotype and an accompanying symbol illustration, refining proportions and spacing for stronger readability and a more industrial tone. To make typography a true brand asset, I developed a custom LEMBUS typeface and exported it as an OTF file using FontLab, then defined a complete set of branding guidelines including logo variations, minimum sizes, correct/incorrect usage rules, and a color and typography system (with IBM Plex Sans as secondary typography). ",
     link: {
       label: 'View and download the full LEMBUS Visual Identity System (PDF)',
-      url: 'https://drive.google.com/file/d/1yEJtcOjXseGnQ0xS46okMJoCf5jvM1-m/view?usp=sharing'
+      url: 'https://drive.google.com/file/d/1YOMbh-G976LLPUtD9S7xki9l44lQE_W7/view?usp=sharing'
     },
     gallery: [
       '/projtects/graphic/LEMBUS/LEMBUSLogo.png',
